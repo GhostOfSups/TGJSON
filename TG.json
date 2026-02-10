@@ -14,6 +14,13 @@
     "tags": ["DeFi"]
   },
   {
+    "name": "XRP Deals",
+    "url": "https://xrp.deals/",
+    "imgUrl": "images/deals.png",
+    "desc": "State of the art NFT tools",
+    "tags": ["DEX", "NFT-Integrated"]
+  },
+  {
     "name": "xSPECTAR",
     "url": "https://xspectar.com/",
     "imgUrl": "images/spectar.png",
