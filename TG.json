@@ -14,13 +14,6 @@
     "tags": ["DeFi"]
   },
   {
-    "name": "Jester",
-    "url": "https://jestersmiley.vercel.app/",
-    "imgUrl": "images/memes/jester.png",
-    "desc": "We're not just riding the meme wave— we're creating a tsunami of entertainment, community engagement, and unprecedented growth potential.",
-    "tags": ["MemeToken", "NFT"]
-  },
-  {
     "name": "xSPECTAR",
     "url": "https://xspectar.com/",
     "imgUrl": "images/spectar.png",
@@ -362,6 +355,13 @@
     "imgUrl": "images/memes/reaper.png",
     "desc": "Reaper Financial and RPR Token serve the digital ecosystem as a natural market regulation tool for a decentralized economy.",
     "tags": ["MemeToken"]
+  },
+  {
+    "name": "Jester",
+    "url": "https://jestersmiley.vercel.app/",
+    "imgUrl": "images/memes/jester.png",
+    "desc": "We're not just riding the meme wave— we're creating a tsunami of entertainment, community engagement, and unprecedented growth potential.",
+    "tags": ["MemeToken", "NFT"]
   },
   {
     "name": "Money Minded Apes",
