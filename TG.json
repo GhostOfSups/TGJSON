@@ -560,6 +560,13 @@
     "tags": ["MemeToken"]
   },
   {
+    "name": "XRPL CEO's",
+    "url": "https://xrplceo.info/",
+    "imgUrl": "images/memes/ceo.jpg",
+    "desc": "The most executive meme coin on the XRP Ledger! Where South Park meets Wall Street!",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
     "name": "Occult",
     "url": "https://www.occult.tools/",
     "imgUrl": "images/memes/occult.jpg",
