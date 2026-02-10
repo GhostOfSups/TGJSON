@@ -1,0 +1,569 @@
+[
+  { 
+    "name": "Axiom",
+    "url": "https://axiomprotocol.io/",
+    "imgUrl": "images/axiom.avif",
+    "desc": "The first decentralized prediction market built for the XRP community.",
+    "tags": ["Prediction Market"]
+  },
+  {
+    "name": "Soil",
+    "url": "https://xrpl.soil.co/",
+    "imgUrl": "images/soil.jpg",
+    "desc": "Soil is the first XRPL-native app that lets you earn stable, secure yield on RLUSD — easily and without leaving the XRPL ecosystem.",
+    "tags": ["DeFi"]
+  },
+  {
+    "name": "xSPECTAR",
+    "url": "https://xspectar.com/",
+    "imgUrl": "images/spectar.png",
+    "desc": "Metaverse and social platform on the XRP Ledger.",
+    "tags": ["Gaming", "NFT-Integrated"]
+  },
+  {
+    "name": "Shroomies",
+    "url": "https://www.shroomiesxrp.com/",
+    "imgUrl": "images/shroomies.webp",
+    "desc": "At its core, Shroomies is a production studio, building cinematic worlds. ",
+    "tags": ["Media", "Tools"]
+  },
+  {
+    "name": "The XRPL Vote Board",
+    "url": "https://nft.xrplvoteboard.com/",
+    "imgUrl": "images/voteboard.jpg",
+    "desc": "Vote with XRP to rank projects.",
+    "tags": ["Tools", "NFT-Integrated"]
+  },
+  {
+    "name": "Million Pixel",
+    "url": "https://www.millionpixelxrp.com/",
+    "imgUrl": "images/wall.png",
+    "desc": "Be a part of XRP History! Join XRP community leaders and projects on the Million Pixel XRP Wall",
+    "tags": ["Media"]
+  },
+  {
+    "name": "DNA Protocol",
+    "url": "https://dnaprotocol.org/",
+    "imgUrl": "images/dna.png",
+    "desc": "We empower individuals to claim ownership of their genetic data by anchoring DNA records immutably on the XRPL.",
+    "tags": ["DID"]
+  },
+  {
+    "name": "Lucky Hash",
+    "url": "https://luckyhash.win/",
+    "imgUrl": "images/lucky.png",
+    "desc": "LuckyHash brings true randomness to blockchain gaming through XRPL ledger hashes.",
+    "tags": ["Gaming"]
+  },
+  {
+    "name": "XRP Toolkit",
+    "url": "https://www.xrptoolkit.com/",
+    "imgUrl": "images/xrptoolkit.png",
+    "desc": "Tool for configuring XRPL wallets and trading on the DEX.",
+    "tags": ["Tools", "Payments"]
+  },
+  {
+    "name": "Joey Wallet",
+    "url": "https://joeywallet.xyz/",
+    "imgUrl": "images/joey.jpg",
+    "desc": "Your Trusted Crypto Pouch",
+    "tags": ["Tools", "DEX", "NFT-Integrated", "Payments"]
+  },
+  {
+    "name": "Meme DAO",
+    "url": "https://memedao.app/",
+    "imgUrl": "images/memedao.png",
+    "desc": "Create Decentralized Autonomous Organizations for any meme token",
+    "tags": ["Tools"]
+  },
+  {
+    "name": "Validator Dashboard",
+    "url": "https://github.com/realgrapedrop/xrpl-validator-dashboard",
+    "imgUrl": "images/grape.jpg",
+    "desc": "Production-ready monitoring for validators who need reliable insight without the overhead",
+    "tags": ["Tools"]
+  },
+  {
+    "name": "XRP.Cafe",
+    "url": "https://xrp.cafe/",
+    "imgUrl": "images/cafe.png",
+    "desc": "The friendliest NFT marketplace on XRPL",
+    "tags": ["NFT-Integrated", "DEX"]
+  },
+  {
+    "name": "Fury Felines",
+    "url": "https://furyfelines.com/",
+    "imgUrl": "images/fury.png",
+    "desc": "Enter the mystical world of Felinestra where legendary feline warriors battle for supremacy!",
+    "tags": ["Gaming"]
+  },
+  {
+    "name": "Placers",
+    "url": "https://web3slashplace.com/",
+    "imgUrl": "images/placers.png",
+    "desc": "A Canvas to leave your mark in Web3 History",
+    "tags": ["NFT-Integrated"]
+  },
+  {
+    "name": "Xaman Wallet",
+    "url": "https://xaman.app/",
+    "imgUrl": "images/XamanLogoW.png",
+    "desc": "The most popular XRPL wallet",
+    "tags": ["Tools", "DEX", "NFT-Integrated", "Payments"]
+  },
+  {
+    "name": "Ripplevids",
+    "url": "https://www.ripplevids.com/",
+    "imgUrl": "images/ripplevids.jpg",
+    "desc": "The world's first creator-first short-form ecosystem.",
+    "tags": ["Media"]
+  },
+  {
+    "name": "Sologenic",
+    "url": "https://sologenic.org/",
+    "imgUrl": "images/sologenic.svg",
+    "desc": "The Decentralized Exchange UI from Sologenic, allowing flexible asset trading and NFT support.",
+    "tags": ["DEX", "NFT-Integrated"]
+  },
+  {
+    "name": "Bidds",
+    "url": "https://bidds.com/",
+    "imgUrl": "images/bidds.svg",
+    "desc": "An auction-focused NFT marketplace on XRPL, enabling real-time auctions for digital assets.",
+    "tags": ["DEX", "NFT-Integrated"]
+  },
+  {
+    "name": "Rcadia",
+    "url": "https://www.rcadia.xyz/",
+    "imgUrl": "images/rcadia.jpg",
+    "desc": "The gaming arcade where every game is a chance to earn real rewards",
+    "tags": ["Gaming"]
+  },
+  {
+    "name": "Anodos Finance",
+    "url": "https://anodos.finance/",
+    "imgUrl": "images/anodos.svg",
+    "desc": "Your Gateway to Financial Freedom",
+    "tags": ["DEX", "Payments"]
+  },
+  {
+    "name": "OpulenceX",
+    "url": "https://opulencex.io/",
+    "imgUrl": "images/opulence.webp",
+    "desc": "Full-stack technology solutions spanning blockchain, Web3, enterprise software, and custom development.",
+    "tags": ["Tools", "NFT-Integrated"]
+  },
+  {
+    "name": "Distributed Agreement",
+    "url": "https://www.distributedagreement.com/",
+    "imgUrl": "images/DS.png",
+    "desc": "The future will be decentralized",
+    "tags": ["Tools", "Media"]
+  },
+  {
+    "name": "Learning Portal",
+    "url": "https://learn.xrpl.org/",
+    "imgUrl": "images/learningportal.png",
+    "desc": "Learn to code on the XRP Ledger.",
+    "tags": ["Tools"]
+  },
+  {
+    "name": "Bithomp",
+    "url": "https://bithomp.com/",
+    "imgUrl": "images/bithomp.png",
+    "desc": "XRP Ledger explorer allowing account login with hardware wallets.",
+    "tags": ["Tools"]
+  },
+  {
+    "name": "XRP Insights",
+    "url": "https://xrp-insights.com/",
+    "imgUrl": "images/xrpinsights.png",
+    "desc": "Track XRP ETF holdings, flows & volume in real-time. Free live dashboard.",
+    "tags": ["Tools"]
+  },
+  {
+    "name": "XRP Rich List",
+    "url": "https://xrp-rich-list-summary.shirome.net/",
+    "imgUrl": "images/shirome.png",
+    "desc": "XRP Rich List Summary - Developed by @shirome_x ",
+    "tags": ["Tools"]
+  },
+  {
+    "name": "XRP Globe",
+    "url": "https://threexrp.dev",
+    "imgUrl": "images/globe.png",
+    "desc": "XRP Global Volume - Developed by @ShortTheFOMO ",
+    "tags": ["Tools"]
+  },
+  {
+    "name": "Horizon",
+    "url": "https://horizonxrpl.com/horizon",
+    "imgUrl": "images/horizon.png",
+    "desc": "The ultimate XRP Ledger DEX for discovering, trading, and launching tokens",
+    "tags": ["Tools", "DEX", "NFT-Integrated"]
+  },
+  {
+    "name": "Magnetic",
+    "url": "https://xmagnetic.org",
+    "imgUrl": "images/magnetic.webp",
+    "desc": "#1 XRPL DEX",
+    "tags": ["Tools", "DEX", "NFT-Integrated"]
+  },
+  {
+    "name": "TextRP",
+    "url": "https://textrp.io/",
+    "imgUrl": "images/textrp.png",
+    "desc": "Bridging Every day Communication with Blockchain",
+    "tags": ["Tools", "Media", "Payments"]
+  },
+  {
+    "name": "Easy.A",
+    "url": "https://www.easya.io/",
+    "imgUrl": "images/easy.jpg",
+    "desc": "Learn about the world’s leading blockchains, right from your phone.",
+    "tags": ["Tools"]
+  },
+  {
+    "name": "Void Runner",
+    "url": "https://www.xrplpulse.com/void-runner",
+    "imgUrl": "images/vrunner.png",
+    "desc": "Dodge the vortices • Collect the Void Keys",
+    "tags": ["Gaming"]
+  },
+  {
+    "name": "XAO DAO",
+    "url": "https://www.xaodao.io/",
+    "imgUrl": "images/xao.jpg",
+    "desc": "The world's first Decentralized Autonomous Organization for the XRP Ledger.",
+    "tags": ["Tools", "NFT-Integrated"]
+  },
+  {
+    "name": "Grid",
+    "url": "https://gridxrpl.xyz/",
+    "imgUrl": "images/grid.png",
+    "desc": "Multitool platform",
+    "tags": ["Tools"]
+  },
+  {
+    "name": "XRP News",
+    "url": "https://www.xrplpulse.com/news",
+    "imgUrl": "images/news.png",
+    "desc": "Live XRP, Ripple, RLUSD & XRPL news from 13+ premium sources",
+    "tags": ["Media"]
+  },
+  {
+    "name": "XRPresso",
+    "url": "https://xrpresso.io/",
+    "imgUrl": "images/xrpresso.png",
+    "desc": "The World's First Decentralized XRPL-Powered Marketplace",
+    "tags": ["DEX"]
+  },
+  {
+    "name": "XRPSCAN",
+    "url": "https://xrpscan.com/",
+    "imgUrl": "images/xrpscan.png",
+    "desc": "XRPSCAN is the leading explorer for the XRP Ledger, the home of XRP.",
+    "tags": ["Tools"]
+  },
+  {
+    "name": "XPMarket",
+    "url": "https://xpmarket.com/",
+    "imgUrl": "images/xpmarket.jpg",
+    "desc": "Discover and trade in the XRP NFT marketplace, track the latest XRPL tokens and coins, and leverage our state-of-the-art DEX for your trading strategies.",
+    "tags": ["DEX", "NFT-Integrated", "Tools"]
+  },
+  {
+    "name": "First Ledger",
+    "url": "https://firstledger.net/",
+    "imgUrl": "images/firstledger.png",
+    "desc": "The fastest way to trade assets on the XRP Ledger.",
+    "tags": ["DEX"]
+  },
+  {
+    "name": "Doppler Finance",
+    "url": "https://www.doppler.finance/",
+    "imgUrl": "images/doppler.png",
+    "desc": "Doppler Finance is introducing a new paradigm, “XRPfi,” enabling holders to earn yields with their XRP or assets within the XRPL ecosystem.",
+    "tags": ["DeFi"]
+  },
+  {
+    "name": "Strobe",
+    "url": "https://strobe.finance/",
+    "imgUrl": "images/strobe.png",
+    "desc": "XRPL's first native lending and borrowing market",
+    "tags": ["DeFi"]
+  },
+  {
+    "name": "XRP MegaBits",
+    "url": "https://www.dpmf.technology/xrp-megabits/",
+    "imgUrl": "images/megabits.png",
+    "desc": "XRP MegaBits are DNFTs - dynamic, mutable NFTs designed for long-term value and ecosystem integration. Fully viewable in 3D and augmented reality, each asset evolves over time, with metadata that adapts to utility, rarity, and strategic positioning.",
+    "tags": ["Gaming"]
+  },
+  {
+    "name": "Flare",
+    "url": "https://flare.network/",
+    "imgUrl": "images/Flare.png",
+    "desc": "Flare is a full-stack layer 1 solution designed for data intensive use cases.",
+    "tags": ["DeFi"]
+  },
+  {
+    "name": "Ripple",
+    "url": "https://www.youtube.com/channel/UCjok1uTSBUgvRYQaASz6YWw",
+    "imgUrl": "images/ripple.png",
+    "desc": "We build breakthrough crypto solutions for a world without economic borders.",
+    "tags": ["Media"]
+  },
+  {
+    "name": "RippleXity",
+    "url": "https://ripplexity.com/",
+    "imgUrl": "images/xity.png",
+    "desc": "A decentralized news platform on the XRP Ledger.",
+    "tags": ["Media"]
+  },
+  {
+    "name": "The XRP Podcast",
+    "url": "https://podcasts.apple.com/us/podcast/the-xrp-podcast-with-paul-barron/id1825150101",
+    "imgUrl": "images/paulbarron.png",
+    "desc": "The XRP Podcast with Paul Barron - Where XRP Intelligence Meets Action",
+    "tags": ["Media"]
+  },
+  { 
+    "name": "Fart Coin",
+    "url": "https://fartxrpl.com/",
+    "imgUrl": "images/memes/fart.png",
+    "desc": "Rising from the toxic ashes of failed projects, FART CLUB emerges on XRPL as a community-driven token. Join our gassy adventure through NFTs and immersive storytelling in the digital sewers of innovation.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Bearded Ape Society",
+    "url": "https://beardedapesociety.com/",
+    "imgUrl": "images/memes/ape.jpg",
+    "desc": "In a world of clean-shaven copycats, we choose to grow bold.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Shroomies",
+    "url": "https://www.shroomiesxrp.com/",
+    "imgUrl": "images/memes/shroomies.webp",
+    "desc": "At its core, Shroomies is a production studio, building cinematic worlds, crafting original films, and offering creative services to visionary projects across Web3.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Reaper Financial",
+    "url": "https://www.reaper.financial/",
+    "imgUrl": "images/memes/reaper.png",
+    "desc": "Reaper Financial and RPR Token serve the digital ecosystem as a natural market regulation tool for a decentralized economy.",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Money Minded Apes",
+    "url": "https://moneymindedapes.com/",
+    "imgUrl": "images/memes/mmape.jpg",
+    "desc": "Money Minded Apes is at the heart of financial enlightenment, launched from the dynamic XRP Ledger.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Drop",
+    "url": "https://www.xrp-drop.com/",
+    "imgUrl": "images/memes/drop.webp",
+    "desc": "DROP was born to be the leader of the XRP memecoins, shooting to the top and outshining competitors. With a strong a passionate team behind it, we will make $DROP a leader of the entire memecoin market.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Salute",
+    "url": "https://xrpsalute.com/",
+    "imgUrl": "images/memes/salute.avif",
+    "desc": "It's a symbol of belief in XRP's potential",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Bear",
+    "url": "https://bearableguy.xyz/",
+    "imgUrl": "images/memes/bear.png",
+    "desc": "Bear is a memecoin in tribute to the most famous XRP meme Bearableguy123",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "All The Money",
+    "url": "https://linktr.ee/atm_xrpl",
+    "imgUrl": "images/memes/atm.webp",
+    "desc": "#AllTheMoney CTO on the #XRPLedger - community driven memecoin - ISO compliant - $XRP to 589 🤝 all about fun, no promises 🏧",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "589",
+    "url": "https://www.589onxrpl.com/",
+    "imgUrl": "images/memes/589.png",
+    "desc": "Inspired by the legendary 589 prediction, 589 is a community-driven token on the XRP Ledger, bringing a prophecy to life.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Lynx",
+    "url": "https://www.lynxandtheninja.com/",
+    "imgUrl": "images/memes/lynx.jpg",
+    "desc": "Neighbors Helping Neighbors Through Giving and Growth",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Common Bird",
+    "url": "https://commonbirdxrpl.com/",
+    "imgUrl": "images/memes/cbird.png",
+    "desc": "He might be a common bird, but his story is anything but ordinary",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Sigma",
+    "url": "https://sigmaonxrpl.com/",
+    "imgUrl": "images/memes/sigma.jpg",
+    "desc": "SIGMA on XRPL is an identity, an idea, a stereotype of the most degenerate community on the XRPL. Step into the future of cultural memes.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Laugh",
+    "url": "https://linktr.ee/laughnowxrp",
+    "imgUrl": "images/memes/laugh.jpg",
+    "desc": "LAUGH now, but one day XRP will power the world.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Bert the Bird",
+    "url": "https://www.bertthebird.com/",
+    "imgUrl": "images/memes/bert.jpg",
+    "desc": "Bert see jeets. Bert aim. Bert shoot. Jeets run. Bert say, No sell, only fly.",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "XMEME",
+    "url": "https://www.xmemecoinxrpl.com/",
+    "imgUrl": "images/memes/xmeme.jpg",
+    "desc": "XMEME isn’t just a token—it’s a movement. A little humor, a lot of ambition, and endless potential.",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Nightfall",
+    "url": "https://nightfallxrp.com/",
+    "imgUrl": "images/memes/nightfall.png",
+    "desc": "Experience the future of automated trading on the XRP Ledger with the Nightfall Trades Bot.",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Horizon",
+    "url": "https://horizonxrpl.com/horizon",
+    "imgUrl": "images/memes/horizon.png",
+    "desc": "The ultimate XRP Ledger DEX for discovering, trading, and launching tokens",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "ARMY",
+    "url": "https://xrparmytoken.com/",
+    "imgUrl": "images/memes/army.webp",
+    "desc": "$ARMY was born to lead this revolution, to turn conviction into prosperity, and to unify the power of the XRPL communities to reach the top 100 of world tokens.",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "PHNIX",
+    "url": "https://phnix.io/",
+    "imgUrl": "images/memes/phoenix.avif",
+    "desc": "$PHNIX is the XRPL’s flagship memecoin. Built to last. Established on XRPL. Proven across cycles.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "FUZZY",
+    "url": "https://fuzzyxrp.com/home",
+    "imgUrl": "images/memes/fuzzy.png",
+    "desc": "In commemoration of the XRPLegend—Fuzzybear.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Duels",
+    "url": "https://www.burnwithmerch.com/degen-duels/",
+    "imgUrl": "images/memes/duels.webp",
+    "desc": "Step into the world of Degen Duels, where strategy meets excitement. Engage in thrilling 1vs1 duels using your favorite tokens on the XRPL and claim your victory!",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Dancing Bear",
+    "url": "https://linktr.ee/DANCINGBEARSXRP",
+    "imgUrl": "images/memes/dab.jpg",
+    "desc": "Dancing Bears rooted in Grateful Dead culture and Ripple lore. Psychedelic art, good vibes, and movement across the XRPL trenches.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Live Off XRP",
+    "url": "https://loxliveoffxrp.wixsite.com/lox-liveoffxrp",
+    "imgUrl": "images/memes/lox.avif",
+    "desc": "Live Off XRP is an old-school meme,where everyone on #XRPL can relate to its content!$LOX aims to represent ALL $XRP degens out there,keeping content real through the ups and downs!",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Aliens On XRPL",
+    "url": "https://aliensonxrpl.com/",
+    "imgUrl": "images/memes/aliens.png",
+    "desc": "Join the intergalactic community with AOX token and exclusive alien NFTs. Be part of the future on XRPL.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "3rd Eye",
+    "url": "https://3rdeyexrp.com/",
+    "imgUrl": "images/memes/3rdeye.jpg",
+    "desc": "Seeing beyond the ordinary. Built on the XRP Ledger, $3RDEYE is on the path of enlightenment and riding the cosmic waves of Ripple.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Police",
+    "url": "https://linktr.ee/CryptoCopXRP",
+    "imgUrl": "images/memes/police.jpg",
+    "desc": "The Crypto Cop is here to lay down the law you filthy degens 👮",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Fren",
+    "url": "https://xrpfrensclub.com/",
+    "imgUrl": "images/memes/fren.png",
+    "desc": "Frens Club is just that — a place for frens. It started as a simple idea and turned into a community of people who like XRP, like memes, and like building together without all the noise.",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "XRPnomics",
+    "url": "https://www.xrpnomics.org/",
+    "imgUrl": "images/memes/xrpnomics.png",
+    "desc": "The premier platform for xrpl token predictions. make calls, track performance, and compete with the best alpha callers in the ecosystem.",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Hello",
+    "url": "https://helloxrpl.com/",
+    "imgUrl": "images/memes/hello.png",
+    "desc": "Meet the chill cat taking on the XRPL gaming scene. The official sidekick of Tony Whiskers and spokes-cat of the Fury Zone gaming ecosystem - and star of Catra, coming 2026.",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Bait",
+    "url": "https://www.baitsonxrp.com/",
+    "imgUrl": "images/memes/bait.png",
+    "desc": "A self-aware meme token that turns getting baited into the biggest flex in crypto.",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Occult",
+    "url": "https://www.occult.tools/",
+    "imgUrl": "images/memes/occult.jpg",
+    "desc": "A forbidden alliance of intelligence and insight, revealing the unseen truths of the crypto world.",
+    "tags": ["MemeToken"]
+  },
+  {
+    "name": "Fury Felines",
+    "url": "https://furyfelines.com/#/",
+    "imgUrl": "images/memes/fury.png",
+    "desc": "Enter the mystical world of Felinestra where legendary feline warriors battle for supremacy! ",
+    "tags": ["MemeToken", "NFT"]
+  },
+  {
+    "name": "Ripple Devil",
+    "url": "https://www.ripdev.online/",
+    "imgUrl": "images/memes/ripdev.webp",
+    "desc": "In the scorching heart of the XRP Ledger, where transactions burn like rivers of molten lava, Little Ripple Devil $RIPDEV awakened from a thousand-year slumber.",
+    "tags": ["MemeToken", "NFT"]
+  }
+]
