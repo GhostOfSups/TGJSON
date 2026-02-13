@@ -1,4 +1,11 @@
 [
+  {
+    "name": "Rarity Royale",
+    "url": "https://rarityroyale.win/",
+    "imgUrl": "images/royale.jpeg",
+    "desc": "Activate your XRPeas, train for glory, and dominate the battle arena. Win XRP rewards in the ultimate NFT battle royale on XRP Ledger.",
+    "tags": ["Gaming", "NFT-Integrated"]
+  },
   { 
     "name": "Axiom",
     "url": "https://axiomprotocol.io/",
