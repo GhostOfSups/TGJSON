@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   { 
+    "name": "KatzKomps",
+    "url": "https://www.katzkomps.com/",
+    "imgUrl": "images/katz.png",
+    "desc": "KatzKomps isn’t just a raffle—it’s a crypto revolution! Get ready to join the biggest XRP giveaway movement in the crypto world!",
+    "tags": ["Gaming"]
+  },
+  { 
     "name": "Axiom",
     "url": "https://axiomprotocol.io/",
     "imgUrl": "images/axiom.avif",
