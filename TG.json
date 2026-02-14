@@ -6,6 +6,13 @@
     "desc": "Activate your XRPeas, train for glory, and dominate the battle arena. Win XRP rewards in the ultimate NFT battle royale on XRP Ledger.",
     "tags": ["Gaming", "NFT-Integrated"]
   },
+  {
+    "name": "XRPL Services",
+    "url": "https://xrpl.services/",
+    "imgUrl": "images/services.png",
+    "desc": "Login to load your account data, use cool features and to receive Xaman push notifications.",
+    "tags": ["Tools"]
+  },
   { 
     "name": "KatzKomps",
     "url": "https://www.katzkomps.com/",
