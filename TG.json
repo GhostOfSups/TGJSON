@@ -601,6 +601,13 @@
     "desc": "In the depths of a digital revolution, researchers stumbled upon The Ledger Force, a mysterious, decentralized energy coursing through the XRP Ledger",
     "tags": ["MemeToken"]
   },
+  { 
+    "name": "Conspiracy",
+    "url": "https://xrpconspiracy.tesbert.com/",
+    "imgUrl": "images/memes/conspiracy.jpg",
+    "desc": "XRP CONSPIRACY - Enter the Rabbit Hole",
+    "tags": ["MemeToken", "NFT"]
+  },
   {
     "name": "Fury Felines",
     "url": "https://furyfelines.com/#/",
