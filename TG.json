@@ -20,6 +20,13 @@
     "desc": "KatzKomps isn’t just a raffle—it’s a crypto revolution! Get ready to join the biggest XRP giveaway movement in the crypto world!",
     "tags": ["Gaming"]
   },
+  {
+    "name": "DropFi",
+    "url": "https://www.dropfi.app/",
+    "imgUrl": "images/dropfi.png",
+    "desc": "Finally, a Modern XRP Wallet That Doesn't Suck. No QR scans. No SDK worship. No walled gardens. Just pure, decentralized access to the XRP Ledger - on-chain, on your terms.",
+    "tags": ["Tools", "DEX", "NFT-Integrated", "Payments"]
+  },
   { 
     "name": "Axiom",
     "url": "https://axiomprotocol.io/",
