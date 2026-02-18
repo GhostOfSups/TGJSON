@@ -21,6 +21,13 @@
     "tags": ["Gaming"]
   },
   {
+    "name": "Dip A Toe Show",
+    "url": "https://www.youtube.com/@dipatoe",
+    "imgUrl": "images/dipatoe.jpg",
+    "desc": "Melissa & Simon invite you to join our weekly conversation surrounding crypto & the digital asset space. Whether you're an experienced crypto enthusiast or just thinking of dipping a toe please stop by & share your knowledge or ask your questions.",
+    "tags": ["Media"]
+  },
+  {
     "name": "DropFi",
     "url": "https://www.dropfi.app/",
     "imgUrl": "images/dropfi.png",
