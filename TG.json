@@ -13,6 +13,13 @@
     "desc": "Login to load your account data, use cool features and to receive Xaman push notifications.",
     "tags": ["Tools"]
   },
+  {
+    "name": "XRP Market",
+    "url": "https://www.xrpmarket.com/",
+    "imgUrl": "images/xrpmarket.png",
+    "desc": "Experience lightning-fast swaps with our advanced AMM protocol. Trade with confidence, earn rewards, and join the future of DeFi.",
+    "tags": ["Tools", "DEX", "NFT-Integrated", "Payments"]
+  },
   { 
     "name": "KatzKomps",
     "url": "https://www.katzkomps.com/",
