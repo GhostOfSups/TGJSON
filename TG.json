@@ -623,6 +623,13 @@
     "tags": ["MemeToken"]
   },
   { 
+    "name": "Weird",
+    "url": "https://www.stayweirdonxrpl.com/",
+    "imgUrl": "images/memes/weird.png",
+    "desc": "The meme token for outsiders, early adopters, and creative degens. Built for the ones who see what others miss — on the fastest, lowest-cost chain in crypto.",
+    "tags": ["MemeToken"]
+  },
+  { 
     "name": "XRP-MEN",
     "url": "https://xrp-men.com/",
     "imgUrl": "images/memes/xmen.jpg",
