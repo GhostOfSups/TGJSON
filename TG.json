@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Koi",
+    "url": "https://koi.grapedrop.xyz/",
+    "imgUrl": "images/koi.svg",
+    "desc": "The trading hooks you. The learning keeps you",
+    "tags": ["Tools"]
+  },
+  {
     "name": "XRPL Services",
     "url": "https://xrpl.services/",
     "imgUrl": "images/services.png",
