@@ -14,6 +14,13 @@
     "tags": ["Tools"]
   },
   {
+    "name": "Cryptoland",
+    "url": "https://cryptoland.io/home/",
+    "imgUrl": "images/cryptoland.webp",
+    "desc": "Step into the ultimate play-to-earn experience where strategy meets opportunity. Build your kingdom, fortify your armies, and earn rewards in the ultimate strategic gaming experience on XRPL.",
+    "tags": ["Gaming", "NFT-Integrated"]
+  },
+  {
     "name": "XRPL Services",
     "url": "https://xrpl.services/",
     "imgUrl": "images/services.png",
