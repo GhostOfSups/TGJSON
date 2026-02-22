@@ -6,6 +6,13 @@
     "desc": "Activate your XRPeas, train for glory, and dominate the battle arena. Win XRP rewards in the ultimate NFT battle royale on XRP Ledger.",
     "tags": ["Gaming", "NFT-Integrated"]
   },
+  { 
+    "name": "Lions",
+    "url": "https://xrplions.com/",
+    "imgUrl": "images/memes/lions.jpg",
+    "desc": "The XRP Lions, specializing in prime metaverse real estate, offering opportunities for investment and development in the digital world.",
+    "tags": ["MemeToken", "NFT"]
+  },
   {
     "name": "Koi",
     "url": "https://koi.grapedrop.xyz/",
