@@ -13,6 +13,13 @@
     "desc": "The XRP Lions, specializing in prime metaverse real estate, offering opportunities for investment and development in the digital world.",
     "tags": ["MemeToken", "NFT"]
   },
+  { 
+    "name": "QuantZilla",
+    "url": "https://www.quantzilla.online/",
+    "imgUrl": "images/memes/quantz.png",
+    "desc": "QuantZilla AI is a community-focused, participation-driven token on the XRP Ledger. Our ecosystem is designed to be transparent, fair, and automated, with systems in place to manage supply, liquidity, and participation without centralized interference.",
+    "tags": ["MemeToken", "NFT"]
+  },
   {
     "name": "Koi",
     "url": "https://koi.grapedrop.xyz/",
