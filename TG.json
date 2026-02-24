@@ -6,6 +6,13 @@
     "desc": "Activate your XRPeas, train for glory, and dominate the battle arena. Win XRP rewards in the ultimate NFT battle royale on XRP Ledger.",
     "tags": ["Gaming", "NFT-Integrated"]
   },
+  {
+    "name": "HAAGA Token Factory",
+    "url": "https://haagaxrpl.xyz/",
+    "imgUrl": "images/haaga.jpg",
+    "desc": "High As A Giraffe's Ass (HAAGA) – a launchpad built on the principles of hard work, honesty and integrity.",
+    "tags": ["Tools"]
+  },
   { 
     "name": "Lions",
     "url": "https://xrplions.com/",
@@ -22,7 +29,7 @@
   },
   {
     "name": "Quantzilla Developer Console",
-    "url": "https://api.quantzilla.online/bp?v=1771748401719",
+    "url": "https://api.quantzilla.online/bp",
     "imgUrl": "images/quantz.png",
     "desc": "Developer Console: everything devs need, including Buy Pressure Bot + NFT & AMM airdrops.",
     "tags": ["Tools"]
