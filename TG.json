@@ -14,6 +14,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Blume Finance",
+    "url": "https://blumefi.com/",
+    "imgUrl": "images/bloom.svg",
+    "desc": "Launch a token for 1 XRP. Swap, trade, and chat with AI agents — all on XRPL EVM.",
+    "tags": ["Tools", "DEX"]
+  },
+  {
     "name": "Rhyzlo",
     "url": "https://www.rhyzlo.com/",
     "imgUrl": "images/rhyzlo.jpg",
