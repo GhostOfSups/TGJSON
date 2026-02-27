@@ -14,6 +14,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Rhyzlo",
+    "url": "https://www.rhyzlo.com/",
+    "imgUrl": "images/rhyzlo.jpg",
+    "desc": "The trust layer for the XRPL. Free risk reports, institutional-grade analytics, and secure P2P escrows. Know what you’re trusting.",
+    "tags": ["Tools"]
+  },
+  {
     "name": "HAAGA Token Factory",
     "url": "https://haagaxrpl.xyz/",
     "imgUrl": "images/haaga.jpg",
