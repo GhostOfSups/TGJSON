@@ -6,6 +6,13 @@
     "desc": "Activate your XRPeas, train for glory, and dominate the battle arena. Win XRP rewards in the ultimate NFT battle royale on XRP Ledger.",
     "tags": ["Gaming", "NFT-Integrated"]
   },
+  { 
+    "name": "DEGEN",
+    "url": "https://xdegentz.com/",
+    "imgUrl": "images/memes/degen.png",
+    "desc": "Welcome to X-Degentz! Holders receive a WEEKLY drip of $OPULENCE tokens directly to their wallet—Reward amounts are proportional to your points on the X-degentz Rich List (total 828 points across the collection).",
+    "tags": ["MemeToken"]
+  },
   {
     "name": "CO/DE",
     "url": "https://xrprooks.itch.io/code",
