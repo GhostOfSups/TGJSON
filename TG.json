@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "XRP Ledger Foundation",
+    "url": "https://github.com/XRPLF/rippled/discussions",
+    "imgUrl": "images/xrplf.png",
+    "desc": "To foster development on, and widespread usage of the XRP Ledger",
+    "tags": ["Tools"]
+  },
+  {
     "name": "Puppy Tools",
     "url": "https://puppy.tools/",
     "imgUrl": "images/puppy.png",
