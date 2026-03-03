@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Puppy Tools",
+    "url": "https://puppy.tools/",
+    "imgUrl": "images/puppy.png",
+    "desc": "Building Custom Solutions for Communities. Specialized in Discord Bots, XRPL & Solana integrations, and web utilities. From concept to deployment, I create tools that communities love. ",
+    "tags": ["Tools"]
+  },
+  {
     "name": "Honeycluster",
     "url": "https://honeycluster.io/",
     "imgUrl": "images/honey.jpg",
