@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Honeycluster",
+    "url": "https://honeycluster.io/",
+    "imgUrl": "images/honey.jpg",
+    "desc": "Enterprise infrastructure and data provider for blockchain developers building on the XRP Ledger",
+    "tags": ["Tools"]
+  },
+  {
     "name": "aigent.run",
     "url": "https://aigent.run/en",
     "imgUrl": "images/aigent.jpg",
@@ -365,7 +372,7 @@
   },
   {
     "name": "XAO DAO",
-    "url": "https://www.xaodao.io/",
+    "url": "https://app.xaodao.io?ref=E8RFBO",
     "imgUrl": "images/xao.jpg",
     "desc": "The world's first Decentralized Autonomous Organization for the XRP Ledger.",
     "tags": ["Tools", "NFT-Integrated"]
