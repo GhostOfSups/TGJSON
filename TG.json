@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "PAZO XRPL Lounge",
+    "url": "https://oncyber.io/spaces/7LIThHBWCWIu635PPq2Y",
+    "imgUrl": "images/pazo.jpg",
+    "desc": "Explore the XRPL in 3D with one click",
+    "tags": ["Tools", "Media", "Metaverse"]
+  },
+  {
     "name": "XRP Ledger Foundation",
     "url": "https://github.com/XRPLF/rippled/discussions",
     "imgUrl": "images/xrplf.png",
