@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "CHAINARA",
+    "url": "https://chainara.io/",
+    "imgUrl": "images/chainara.jpg",
+    "desc": "AI-powered blockchain threat intelligence. Detect fraud with accuracy. Analyze millions of wallets daily. Secure Web2 & Web3 assets.",
+    "tags": ["Tools"]
+  },
+  {
     "name": "Pulse News",
     "url": "https://www.youtube.com/@XRPLPulse",
     "imgUrl": "images/crystal.png",
