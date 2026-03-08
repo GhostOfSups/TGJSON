@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "XRPLWin",
+    "url": "https://xrplwin.com/",
+    "imgUrl": "images/xrplwin.webp",
+    "desc": "XRPL Explorer and developer tools.",
+    "tags": ["Tools"]
+  },
+  {
     "name": "CHAINARA",
     "url": "https://chainara.io/",
     "imgUrl": "images/chainara.jpg",
