@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Monday Brew",
+    "url": "https://xrplbrew.com/",
+    "imgUrl": "images/brew.jpg",
+    "desc": "Latest XRPL development news — AI-generated summaries of GitHub activity across the XRPLF organization.",
+    "tags": ["Media"]
+  },
+  {
     "name": "XRPLWin",
     "url": "https://xrplwin.com/",
     "imgUrl": "images/xrplwin.webp",
