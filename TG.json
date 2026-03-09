@@ -14,6 +14,13 @@
     "tags": ["Media"]
   },
   {
+    "name": "XRPL Meta",
+    "url": "https://xrplmeta.org/",
+    "imgUrl": "images/meta.svg",
+    "desc": "The API for Asset Metadata on the XRP Ledger.",
+    "tags": ["Tools"]
+  },
+  {
     "name": "XRPLWin",
     "url": "https://xrplwin.com/",
     "imgUrl": "images/xrplwin.webp",
