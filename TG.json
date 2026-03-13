@@ -308,11 +308,11 @@
     "tags": ["Tools", "DEX", "NFT-Integrated", "Payments"]
   },
   {
-    "name": "Ripplevids",
+    "name": "Rippleverse",
     "url": "https://www.ripplevids.com/",
-    "imgUrl": "images/ripplevids.png",
-    "desc": "The world's first creator-first short-form ecosystem.",
-    "tags": ["Media"]
+    "imgUrl": "images/rippleverse.jpg",
+    "desc": "RippleVerse is the umbrella ecosystem that powers platforms like RippleBids and RippleVids, allowing users to stream, shop, and earn through blockchain technology and self-custodial wallets.",
+    "tags": ["Media", "DEX"]
   },
   {
     "name": "Sologenic",
