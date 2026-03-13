@@ -734,6 +734,13 @@
     "desc": "The premier platform for xrpl token predictions. make calls, track performance, and compete with the best alpha callers in the ecosystem.",
     "tags": ["MemeToken"]
   },
+  { 
+    "name": "WALDO",
+    "url": "https://waldocoin.live/",
+    "imgUrl": "images/memes/waldo.png",
+    "desc": "WALDOcoin is redefining the digital creator economy with a decentralized reward system that pays users for meme creation and social media engagement.",
+    "tags": ["MemeToken", "NFT"]
+  },
   {
     "name": "Hello",
     "url": "https://helloxrpl.com/",
