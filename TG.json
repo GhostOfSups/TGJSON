@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Xtrend",
+    "url": "https://xtrend.top/",
+    "imgUrl": "images/xtrend.webp",
+    "desc": "XTrend is a project that manage a suite of tools done exclusively for the XRPL.",
+    "tags": ["Tools", "NFT-Integrated"]
+  },
+  {
     "name": "Ledger Realms",
     "url": "https://ledgerealms.com/",
     "imgUrl": "images/realms.jpg",
