@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "BEAR SWAP",
+    "url": "https://swap.bearpark.xyz?ref=rcdubVofvBvDN499XFwjA3Qd7kUztUopK",
+    "imgUrl": "images/bearswap.gif",
+    "desc": "BEAR SWAP is a decentralized exchange (DEX) built on the XRP Ledger.",
+    "tags": ["DEX"]
+  },
+  {
     "name": "Xtrend",
     "url": "https://xtrend.top/",
     "imgUrl": "images/xtrend.webp",
