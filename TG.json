@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "XRPL.to",
+    "url": "https://xrpl.to/",
+    "imgUrl": "images/xrplto.svg",
+    "desc": "XRPL.to is the leading token screener for the XRP Ledger, tracking live prices, market capitalization, 24-hour trading volume, and OHLC charts for thousands of tokens on the native decentralized exchange.",
+    "tags": ["DEX", "Tools"]
+  },
+  {
     "name": "BEAR SWAP",
     "url": "https://swap.bearpark.xyz?ref=rcdubVofvBvDN499XFwjA3Qd7kUztUopK",
     "imgUrl": "images/bearswap.gif",
