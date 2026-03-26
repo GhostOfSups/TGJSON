@@ -14,6 +14,13 @@
     "tags": ["DEX", "Tools"]
   },
   {
+    "name": "XRPLClaw",
+    "url": "https://xrplclaw.com/",
+    "imgUrl": "images/claw.jpg",
+    "desc": "Deploy a personal AI agent in under 60 seconds. Pay with RLUSD. No email. No credit card. Just your wallet.",
+    "tags": ["Tools"]
+  },
+  {
     "name": "BEAR SWAP",
     "url": "https://swap.bearpark.xyz?ref=rcdubVofvBvDN499XFwjA3Qd7kUztUopK",
     "imgUrl": "images/bearswap.gif",
