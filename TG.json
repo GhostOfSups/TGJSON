@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Cult",
+    "url": "https://www.youtube.com/@CultofXRP",
+    "imgUrl": "images/cult.jpg",
+    "desc": "CULT is an innovative approach to market participation that generates multi-faceted value.",
+    "tags": ["Media"]
+  },
+  {
     "name": "XRPL.to",
     "url": "https://xrpl.to/",
     "imgUrl": "images/xrplto.svg",
