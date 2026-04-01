@@ -860,6 +860,13 @@
     "desc": "Memecoin powering an Entertainment Ecosystem",
     "tags": ["MemeToken", "NFT"]
   },
+  { 
+    "name": "GOPNIK",
+    "url": "https://www.gopnik-xrp.com/",
+    "imgUrl": "images/memes/gopnik.jpg",
+    "desc": "Hold it and you’re holding Lada exhaust, stairwell philosophy, seed shells on the curb, and quads forged in parking-lot temples.",
+    "tags": ["MemeToken", "NFT"]
+  },
   {
     "name": "Ripple Devil",
     "url": "https://www.ripdev.online/",
