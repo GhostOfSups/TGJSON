@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "MoonValve",
+    "url": "https://moonvalve.fun/",
+    "imgUrl": "images/moonvalve.jpg",
+    "desc": "The first XRPL launchpad where presale buyers never lose.",
+    "tags": ["Tools","Launchpad"]
+  },
+  {
     "name": "HOUSE OF CAULIMAN",
     "url": "https://houseofcauliman.com/",
     "imgUrl": "images/house.png",
