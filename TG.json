@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "SpyDex",
+    "url": "https://x.com/SpyDexNet",
+    "imgUrl": "images/spydex.jpg",
+    "desc": "Ultra-fast, low-cost, and secure asset exchange.",
+    "tags": ["DEX"]
+  },
+  {
     "name": "MoonValve",
     "url": "https://moonvalve.fun/",
     "imgUrl": "images/moonvalve.jpg",
