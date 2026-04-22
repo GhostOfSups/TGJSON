@@ -21,6 +21,13 @@
     "tags": ["Tools","Launchpad"]
   },
   {
+    "name": "WAFFL",
+    "url": "https://waffl.fun/",
+    "imgUrl": "images/waffl.jpg",
+    "desc": "One raffle platform — powered by the XRP Ledger.",
+    "tags": ["Tools"]
+  },
+  {
     "name": "HOUSE OF CAULIMAN",
     "url": "https://houseofcauliman.com/",
     "imgUrl": "images/house.png",
