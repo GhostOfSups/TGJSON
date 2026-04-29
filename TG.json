@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "LedgerTools",
+    "url": "https://ledgertools.dev/index.html#",
+    "imgUrl": "images/ledgertools.png",
+    "desc": "Read the Ledger. Own the Edge.  We're building tools that every XRPL participant — from first-timers to full-time traders — can actually use.",
+    "tags": ["Tools"]
+  },
+  {
     "name": "SpyDex",
     "url": "https://x.com/SpyDexNet",
     "imgUrl": "images/spydex.jpg",
