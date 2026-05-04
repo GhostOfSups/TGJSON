@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "XRP Music",
+    "url": "https://xrpmusic.io/",
+    "imgUrl": "images/xrpmusic.jpg",
+    "desc": "Music Ownership,Permanently On-Chain",
+    "tags": ["Tools", "Music"]
+  },
+  {
     "name": "LedgerTools",
     "url": "https://ledgertools.dev/index.html#",
     "imgUrl": "images/ledgertools.png",
