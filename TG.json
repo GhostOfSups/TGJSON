@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Heroes exchange",
+    "url": "https://heroesxrpl.com/",
+    "imgUrl": "images/heroes.jpg",
+    "desc": "Next-generation multifunctional platform on XRP Ledger. Fast, secure, liquid.",
+    "tags": ["DEX"]
+  },
+  {
     "name": "XRP Music",
     "url": "https://xrpmusic.io/",
     "imgUrl": "images/xrpmusic.jpg",
