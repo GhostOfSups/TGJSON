@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Verium Labs",
+    "url": "https://veriumlabs.com/",
+    "imgUrl": "images/verium.jpg",
+    "desc": "Building the A.I middleware for A.I agents to connect to the blockchain, as well as a all in one security a.i for token risk analysis, wallet tracking forensics and helping perform swaps and other tasks on chain.",
+    "tags": ["Tools", "DEX"]
+  },
+  {
     "name": "Heroes exchange",
     "url": "https://heroesxrpl.com/",
     "imgUrl": "images/heroes.jpg",
