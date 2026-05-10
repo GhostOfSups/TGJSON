@@ -16,7 +16,7 @@
   {
     "name": "Go XNS",
     "url": "https://goxns.com/",
-    "imgUrl": "images/goxns.jpg",
+    "imgUrl": "images/goxns.jpeg",
     "desc": "Your identity,on-chain forever. The first community-governed naming protocol on XRPL. No middlemen, no gatekeepers — just you and your name, secured by the ledger.",
     "tags": ["Tools", "DID"]
   },
