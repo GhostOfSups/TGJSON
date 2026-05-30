@@ -28,6 +28,13 @@
     "tags": ["DEX"]
   },
   {
+    "name": "PayXRPL",
+    "url": "https://www.payxrpl.io/",
+    "imgUrl": "images/PayXRPL.jpg",
+    "desc": "Instant XRP payment links + Xaman QR codes - no login, no backend, just send and receive fast.",
+    "tags": ["Payments"]
+  },
+  {
     "name": "XRP Music",
     "url": "https://xrpmusic.io/",
     "imgUrl": "images/xrpmusic.jpg",
