@@ -35,6 +35,13 @@
     "tags": ["Payments"]
   },
   {
+    "name": "Zerpswap",
+    "url": "https://zerpswap.com/tokens",
+    "imgUrl": "images/zerp.jpg",
+    "desc": "Swap your ZERPS for 0% trading fees.",
+    "tags": ["DEX"]
+  },
+  {
     "name": "XRP Music",
     "url": "https://xrpmusic.io/",
     "imgUrl": "images/xrpmusic.jpg",
