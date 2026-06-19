@@ -28,6 +28,13 @@
     "tags": ["DEX"]
   },
   {
+    "name": "Possum Tails",
+    "url": "https://possumtails.ca/",
+    "imgUrl": "images/Possum.png",
+    "desc": "Embark on an epic journey to smash the bad guy and save the princess in this text-based adventure.",
+    "tags": ["Gaming"]
+  },
+  {
     "name": "PayXRPL",
     "url": "https://www.payxrpl.io/",
     "imgUrl": "images/PayXRPL.jpg",
