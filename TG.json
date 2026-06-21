@@ -21,6 +21,13 @@
     "tags": ["Tools", "DID"]
   },
   {
+    "name": "xrpl.fi",
+    "url": "https://xrpl.fi/",
+    "imgUrl": "images/xrplfi.jpg",
+    "desc": "Live analytics for tokenized real-world assets on the XRP Ledger. TVL, RLUSD, treasuries & stablecoins — straight from on-chain.",
+    "tags": ["Tools"]
+  },
+  {
     "name": "Heroes exchange",
     "url": "https://heroesxrpl.com/",
     "imgUrl": "images/heroes.jpg",
