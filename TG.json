@@ -7,6 +7,13 @@
     "tags": ["Gaming", "NFT-Integrated"]
   },
   {
+    "name": "Ward Protocol",
+    "url": "https://wardprotocol.org/",
+    "imgUrl": "images/ward.jpeg",
+    "desc": "Deterministic default resolution for on-chain lending — 9 on-ledger checks, oracle-free, ward_signed = False — always.",
+    "tags": ["DeFi", "Tools"]
+  },
+  {
     "name": "DropPay",
     "url": "https://droppayxrp.com/",
     "imgUrl": "images/droppay.jpg",
