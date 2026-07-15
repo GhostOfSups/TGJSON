@@ -1,5 +1,12 @@
 [
   {
+    "name": "Faraday",
+    "url": "https://faradayxrpl.com",
+    "imgUrl": "images/faraday.png",
+    "desc": "Faraday is a simple offline signer for XRP Ledger: prepare on your computer, review and approve on the device. Your keys always stay on your hardware.",
+    "tags": ["Security"]
+  },
+  {
     "name": "Rarity Royale",
     "url": "https://rarityroyale.win/",
     "imgUrl": "images/royale.jpeg",
