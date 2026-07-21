@@ -1,5 +1,12 @@
 [
   {
+    "name": "XBoost",
+    "url": "https://xboost.space/",
+    "imgUrl": "images/xboost.png",
+    "desc": "xBoost runs alongside any X Space as a companion dApp. Listeners react, tip speakers and ask paid questions",
+    "tags": ["Tools", "Media"]
+  },
+  {
     "name": "Faraday",
     "url": "https://faradayxrpl.com",
     "imgUrl": "images/faraday.png",
