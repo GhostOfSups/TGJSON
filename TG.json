@@ -1,5 +1,12 @@
 [
   {
+    "name": "DeepTide",
+    "url": "https://deeptide.co/",
+    "imgUrl": "images/deeptide.png",
+    "desc": " Real-World Assets on DeepTide. Own it on-ledger. Hold it in your hands.",
+    "tags": ["Tools", "RWA"]
+  },
+  {
     "name": "XBoost",
     "url": "https://xboost.space/",
     "imgUrl": "images/xboost.png",
