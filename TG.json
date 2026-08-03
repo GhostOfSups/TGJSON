@@ -665,13 +665,6 @@
     "tags": ["DeFi"]
   },
   {
-    "name": "Strobe",
-    "url": "https://strobe.finance/",
-    "imgUrl": "images/strobe.png",
-    "desc": "XRPL's first native lending and borrowing market",
-    "tags": ["DeFi"]
-  },
-  {
     "name": "XRP MegaBits",
     "url": "https://www.dpmf.technology/xrp-megabits/",
     "imgUrl": "images/megabits.png",
