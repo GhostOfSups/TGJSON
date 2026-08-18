@@ -7,6 +7,13 @@
     "tags": ["Tools", "RWA"]
   },
   {
+    "name": "SpaceBar",
+    "url": "https://www.spacebar.music/",
+    "imgUrl": "images/spacebar.jpg",
+    "desc": "SpaceBar is live radio powered by the people who actually care — artists, stakers, and listeners throwing weight around in real time.",
+    "tags": ["Music"]
+  },
+  {
     "name": "XBoost",
     "url": "https://xboost.space/",
     "imgUrl": "images/xboost.png",
