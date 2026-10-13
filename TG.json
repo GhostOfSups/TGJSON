@@ -525,13 +525,6 @@
     "tags": ["Gaming"]
   },
   {
-    "name": "Anodos Finance",
-    "url": "https://anodos.finance/",
-    "imgUrl": "images/anodos.svg",
-    "desc": "Your Gateway to Financial Freedom",
-    "tags": ["DEX", "Payments"]
-  },
-  {
     "name": "OpulenceX",
     "url": "https://opulencex.io/",
     "imgUrl": "images/opulence.webp",
